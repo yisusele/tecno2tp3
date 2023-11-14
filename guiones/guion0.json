@@ -1,0 +1,140 @@
+{   "audio" : "audios/audio0.mp3",
+    "modelo":"modelos/modelo0.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+            {
+                 "tiempo":"00:00",
+                 "duracion":3000,
+                 "camara":"c1",
+                 "target":"t1",
+                 "nombre":"Gran Montaña"
+            },
+            {
+                 "tiempo":"00:06",
+                 "duracion":5000,
+                 "camara":"c2",
+                 "target":"t2",
+                 "nombre":"Subiendo Montaña"
+            },
+            {
+                 "tiempo":"00:11",
+                 "duracion":4000,
+                 "camara":"c3",
+                 "target":"t3",
+                 "nombre":"Vista de la Montaña"
+            },
+            {
+                 "tiempo":"00:16",
+                 "camara":"c4",
+                 "duracion":5000,
+                 "target":"t4",
+                 "nombre":"Vista de la Montaña2"
+            },
+            {
+                 "tiempo":"00:22",
+                 "camara":"c16",
+                 "duracion":5000,
+                 "target":"t16",
+                 "nombre":"Vista de la Montaña3"
+            },
+            {
+                 "tiempo":"00:28",
+                 "camara":"c5",
+                 "duracion":7000,
+                 "target":"t5",
+                 "nombre":"Camina Bajando la Montaña"
+            },
+            {
+               "tiempo":"00:38",
+               "duracion":10000,
+               "camara":"c6",
+               "target":"t6",
+               "nombre":"Se Encuentra con las Flores"
+          },
+          {
+               "tiempo":"00:49",
+               "duracion":10000,
+               "camara":"c7",
+               "target":"t7",
+               "nombre":"Se Encuentra con las Flores2"
+          },
+          {
+               "tiempo":"01:00",
+               "duracion":7000,
+               "camara":"c8",
+               "target":"t8",
+               "nombre":"Se Encuentra con el Zorro"
+          },
+          {
+               "tiempo":"01:08",
+               "camara":"c9",
+               "duracion":9000,
+               "target":"t9",
+               "nombre":"Regresa con las Rosas"
+          },
+          {
+               "tiempo":"01:18",
+               "camara":"c10",
+               "duracion":9000,
+               "target":"t10",
+               "nombre":"Regresa con las Rosas2"
+          },
+          {
+               "tiempo":"01:29",
+               "duracion":9000,
+               "camara":"c11",
+               "target":"t11",
+               "nombre":"Regresa con las Rosas3"
+          },
+          {
+               "tiempo":"01:40",
+               "camara":"c12",
+               "duracion":9000,
+               "target":"t12",
+               "nombre":"Regresa con las Rosas4"
+          },
+          {
+               "tiempo":"01:55",
+               "camara":"c13",
+               "duracion":7000,
+               "target":"t13",
+               "nombre":"Regresa con las Rosas5"
+          },
+          {
+               "tiempo":"02:03",
+               "duracion":5000,
+               "camara":"c17",
+               "target":"t14",
+               "nombre":"Regresa con el Zorro"
+          },
+          {
+               "tiempo":"02:10",
+               "duracion":7000,
+               "camara":"c14",
+               "target":"t14",
+               "nombre":"Regresa con el Zorro1"
+          },
+          {
+               "tiempo":"02:18",
+               "camara":"c15",
+               "duracion":6000,
+               "target":"t15",
+               "nombre":"Regresa con el Zorro2"
+          },
+          {
+               "tiempo":"02:25",
+               "camara":"c18",
+               "duracion":5000,
+               "target":"t15",
+               "nombre":"Regresa con el Zorro3"
+          },
+          {
+               "tiempo":"02:33",
+               "camara":"c16",
+               "duracion":20000,
+               "target":"t16",
+               "nombre":"Fin"
+          }
+        ]
+}
